@@ -1,5 +1,5 @@
 name: Build Icons
-on: workflow_dispatch
+on: pull_request
 jobs:
   build:
     name: Get Fonts From Icomoon
